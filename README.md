@@ -1,6 +1,6 @@
 # Transportation Systems
 
-Hack Oregon exploring the Call to Action: WHAT DO WE KNOW TODAY THAT CAN GUIDE THE TRANSPORTATION INFRASTRUCTURE FOR SMART CITIES OF TOMORROW?
+Hack Oregon exploring the Call to Action: What do we know today that can guide the Transportation Infrastructure for Smart Cities of tomorrow?
 
 ## About the Theme
 
@@ -13,4 +13,4 @@ Stay tuned for more information about contributing to this repository. Thanks!
 
 ## License
 
-This project is licensed under the GNU 3 GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU 3 GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE) file for details
