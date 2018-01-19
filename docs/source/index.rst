@@ -8,9 +8,11 @@ Welcome to the Documentation Pages for Hack Oregon's Transportation Systems Them
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
-
+   introduction
+   
+   
 
 Indices and tables
 ==================
