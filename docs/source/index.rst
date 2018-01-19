@@ -8,9 +8,41 @@ Welcome to the Documentation Pages for Hack Oregon's Transportation Systems Them
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Project Details
 
-   introduction
+   project-details
+   goals
+   background
+   partners
+   tech-stack
+   contact-info
+
+.. toctree::
+   :maxdepth: 2
+   :caption: API Development
+   
+   api-development
+   docker
+   postgres
+   django
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Data Science
+   
+   data-science
+   cookiecutter
+   exploratory-data-analysis
+   models
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Documentation
+   
+   documentation
+   contributing
+   rtfd
+   rst-vs-markdown
    
    
 
