@@ -3,8 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Documentation Pages for Hack Oregon's Transportation Systems Theme
-=================================================================================
+Hack Oregon Transportation Systems Documentation
+================================================
+
+Thank you for visiting Hack Oregon's Transportation Systems Documentation Site. These pages store information about the Transportation Theme, instructions for developers, and summaries of our analyses. Please check back regulary for updates, and visit our Github repo if you'd like to contribute.
+
+Documentation Table of Contents
+-------------------------------
 
 .. toctree::
    :maxdepth: 2

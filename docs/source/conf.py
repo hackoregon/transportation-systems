@@ -22,7 +22,7 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 from recommonmark.parser import CommonMarkParser
-
+import sys, os
 
 # -- General configuration ------------------------------------------------
 
@@ -33,11 +33,13 @@ from recommonmark.parser import CommonMarkParser
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+sys.path.append(os.path.abspath('exts'))
 extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
+    'sphinx.ext.graphviz',
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
