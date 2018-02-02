@@ -1,3 +1,1 @@
-===========
-ReadTheDocs
-===========
+# ReadTheDocs

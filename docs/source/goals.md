@@ -1,3 +1,1 @@
-=============
-Project Goals
-=============
+# Project Goals
