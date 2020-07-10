@@ -13,4 +13,4 @@ Stay tuned for more information about contributing to this repository. Thanks!
 
 ## License
 
-This project is licensed under the GNU 3 GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT LICENSE - see the [LICENSE.md](LICENSE) file for details
